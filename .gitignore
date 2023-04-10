@@ -1,0 +1,9 @@
+*.csv
+*.xlsx
+test*.*
+*.parquet
+data/
+db/
+.chroma/
+index/
+temp/
