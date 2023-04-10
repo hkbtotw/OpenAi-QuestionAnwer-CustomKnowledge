@@ -31,7 +31,7 @@ import os
 
 #######################################################################################################
 ## openai
-openai.api_key="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"    #### input your oopenai API key here
+openai.api_key="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"    #### input your oopenai API key here
 
 EMBEDDING_MODEL = "text-embedding-ada-002"
 COMPLETIONS_MODEL = "gpt-3.5-turbo"
